@@ -8,6 +8,6 @@ package PerfectMatch;
  *
  * @author UseR
  */
-public class NewPerfectmatch {
+class string {
     
 }
